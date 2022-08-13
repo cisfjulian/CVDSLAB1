@@ -2,4 +2,7 @@
 FE DE ERRATAS
 
 
-* El termino de la pagima (por lo general) 15 es impreciso.
+
+El termino de la pagima (por lo general) 15 es impreciso.
+
+
