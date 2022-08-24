@@ -44,4 +44,4 @@ a un largo recorrido lleno de desafios y conocimiento por adquirir:
 
 [Curso Main](https://imgur.com/a/DbDJ9Us)
 
-[Curso Remote](https://imgur.com/a/Hsw4WsH)
+[Curso Remote](https://imgur.com/a/AHpQO5A)
