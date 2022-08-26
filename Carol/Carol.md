@@ -21,3 +21,16 @@ _Seccion **_remote_** de GitBranching_
 
 _Encuentra este sistema de aprendizaje en:_
 [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
+
+Mi lenguaje favorito es el java
+=
+
+Haremos un print basiquito de java para recordarle al grupo como se hace
+
+```
+public class HolaMundo {
+   public static void main(String[] args) {
+     System.out.println("Hola mundo!");
+   }
+}
+ ```
